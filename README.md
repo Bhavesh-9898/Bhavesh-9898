@@ -83,7 +83,7 @@
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: www.linkedin.com/in/bhavesh-wagh-32ba20275
-* 📧 Email: [your-email@example.com](mailto:waghbhavesh931@gmail.com)
+* 📧 Email: [waghbhavesh931@gmail.com]
 
 ---
 
