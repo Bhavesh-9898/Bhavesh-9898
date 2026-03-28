@@ -62,10 +62,6 @@
 
 ## 📊 GitHub Stats
 
-![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavesh-9898\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh-9898\&layout=compact\&theme=tokyonight)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhavesh-9898\&theme=tokyonight)
 
 ---
@@ -88,12 +84,6 @@
 
 * 💼 LinkedIn: www.linkedin.com/in/bhavesh-wagh-32ba20275
 * 📧 Email: [your-email@example.com](mailto:waghbhavesh931@gmail.com)
-
----
-
-## 👀 Profile Views
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Bhavesh-9898\&color=blue)
 
 ---
 
